@@ -1,0 +1,10 @@
+{
+  "name": "ZionistPOV-reddit-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/my123-app/ZionistPOV-reddit-bot",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
